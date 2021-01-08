@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+div {
+    margin: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.selection-style {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
